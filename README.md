@@ -1,4 +1,4 @@
-# V1.3.0 has been released !
+# V1.4.0 has been released !
 
 ### Ingame Preview
 
@@ -9,6 +9,9 @@
 ### Config.lua
 
 ```lua
+
+Config = {}
+
 Config.Framework = 'esx' -- 'esx', 'qbcore', 'qbox'
 
 Config.Colors = {
@@ -26,9 +29,12 @@ Config.Bars = {
 }
 
 Config.FrameworkBars = { -- hunger, thirst (will add more in v1.4.0)
-    {name = 'hunger', color = '#ffb23e', hideAtZero = false, icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path fill="currentColor" d="m784-262-59-29 77-188 67 130q22 41-10.5 74.5T784-262Zm-176-41 31-340q1-12 11.5-18.5T672-663l87 35q19 8 27 26t0 36L678-303h-70Zm-326 0L175-566q-8-19 0-37t27-26l86-34q11-5 21.5 1.5T321-643l31 340h-70Zm-106 41q-42 20-73.5-12.5T91-349l67-130 77 188-59 29Zm225-41-35-380q-2-21 12.5-36.5T414-735h132q21 0 35.5 15.5T594-683l-35 380H401Z"/></svg>'},
-    {name = 'thirst', color = '#00eeff', hideAtZero = false, icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path fill="currentColor" d="M269-445q43-23 90-35t96-12q29 0 57 4.5t55 12.5q31 9 58.5 14t50.5 5h17l41-336H226l43 347Zm35 349q-27 0-47.5-18T232-159l-78-624q-4-32 18-56.5t54-24.5h508q32 0 54 24.5t18 56.5l-78 624q-4 27-24.5 45T656-96H304Z"/></svg>'}
+    {name = 'hunger', color = '#ff6811', hideAtZero = false, icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path fill="currentColor" d="m784-262-59-29 77-188 67 130q22 41-10.5 74.5T784-262Zm-176-41 31-340q1-12 11.5-18.5T672-663l87 35q19 8 27 26t0 36L678-303h-70Zm-326 0L175-566q-8-19 0-37t27-26l86-34q11-5 21.5 1.5T321-643l31 340h-70Zm-106 41q-42 20-73.5-12.5T91-349l67-130 77 188-59 29Zm225-41-35-380q-2-21 12.5-36.5T414-735h132q21 0 35.5 15.5T594-683l-35 380H401Z"/></svg>'},
+    {name = 'thirst', color = '#00b7ff', hideAtZero = false, icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path fill="currentColor" d="M269-445q43-23 90-35t96-12q29 0 57 4.5t55 12.5q31 9 58.5 14t50.5 5h17l41-336H226l43 347Zm35 349q-27 0-47.5-18T232-159l-78-624q-4-32 18-56.5t54-24.5h508q32 0 54 24.5t18 56.5l-78 624q-4 27-24.5 45T656-96H304Z"/></svg>'}
 }
+
+
+Config.debug = true
 ```
 
 ## Get support on [Discord](https://discord.gg/abFcpDKqdX)
