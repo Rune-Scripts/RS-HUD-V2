@@ -4,6 +4,7 @@
 
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-09-05 182147" src="https://github.com/user-attachments/assets/c665298e-5309-43a8-92a8-26677916823d" />
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-09-05 182230" src="https://github.com/user-attachments/assets/e0b82a19-73b2-43cc-a8b0-cc757dc674a6" />
+
 ### Settings coming in V1.5.0 !
 <img width="1919" height="1079" alt="rs_hudv2_settings" src="https://github.com/user-attachments/assets/00600438-3f20-4694-bec5-b87b180753d8" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b13733d-6ec4-4167-9f87-83fd3abeef9e" />
