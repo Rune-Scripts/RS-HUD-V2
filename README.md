@@ -4,6 +4,8 @@
 
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-09-05 182147" src="https://github.com/user-attachments/assets/c665298e-5309-43a8-92a8-26677916823d" />
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-09-05 182230" src="https://github.com/user-attachments/assets/e0b82a19-73b2-43cc-a8b0-cc757dc674a6" />
+
+### HUD Settings (/hudsettings)
 <img width="1919" height="1079" alt="hudv2_settings" src="https://github.com/user-attachments/assets/387bdfec-3176-4aff-8e8d-2ef2268aca0c" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f4365ae5-be22-4f81-b092-6250a2b7fca4" />
 
